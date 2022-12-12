@@ -1,0 +1,334 @@
+S:\ניתוצ\scouts\scouts\bin\Debug\scouts.exe.config
+S:\ניתוצ\scouts\scouts\bin\Debug\scouts.exe
+S:\ניתוצ\scouts\scouts\bin\Debug\scouts.pdb
+S:\ניתוצ\scouts\scouts\obj\Debug\scouts.csprojAssemblyReference.cache
+S:\ניתוצ\scouts\scouts\obj\Debug\scouts.Form1.resources
+S:\ניתוצ\scouts\scouts\obj\Debug\scouts.Properties.Resources.resources
+S:\ניתוצ\scouts\scouts\obj\Debug\scouts.csproj.GenerateResource.cache
+S:\ניתוצ\scouts\scouts\obj\Debug\scouts.csproj.CoreCompileInputs.cache
+S:\ניתוצ\scouts\scouts\obj\Debug\scouts.exe
+S:\ניתוצ\scouts\scouts\obj\Debug\scouts.pdb
+S:\ניתוצ\scouts\scouts\obj\Debug\scouts.Form2.resources
+C:\Users\rongab\Desktop\ניתוצ\scouts\scouts\bin\Debug\scouts.exe.config
+C:\Users\rongab\Desktop\ניתוצ\scouts\scouts\bin\Debug\scouts.exe
+C:\Users\rongab\Desktop\ניתוצ\scouts\scouts\bin\Debug\scouts.pdb
+C:\Users\rongab\Desktop\ניתוצ\scouts\scouts\obj\Debug\scouts.csprojAssemblyReference.cache
+C:\Users\rongab\Desktop\ניתוצ\scouts\scouts\obj\Debug\scouts.Properties.Resources.resources
+C:\Users\rongab\Desktop\ניתוצ\scouts\scouts\obj\Debug\scouts.csproj.GenerateResource.cache
+C:\Users\rongab\Desktop\ניתוצ\scouts\scouts\obj\Debug\scouts.csproj.CoreCompileInputs.cache
+C:\Users\rongab\Desktop\ניתוצ\scouts\scouts\obj\Debug\scouts.exe
+C:\Users\rongab\Desktop\ניתוצ\scouts\scouts\obj\Debug\scouts.pdb
+S:\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\obj\Debug\scouts.csprojAssemblyReference.cache
+S:\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\obj\Debug\scouts.Form1.resources
+S:\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\obj\Debug\scouts.Properties.Resources.resources
+S:\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\obj\Debug\scouts.csproj.GenerateResource.cache
+S:\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\obj\Debug\scouts.csproj.CoreCompileInputs.cache
+S:\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\obj\Debug\scouts.pdb
+S:\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\scouts.exe.config
+S:\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\scouts.exe
+S:\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\scouts.pdb
+S:\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\obj\Debug\scouts.exe
+D:\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\obj\Debug\scouts.csprojAssemblyReference.cache
+D:\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\obj\Debug\scouts.Form1.resources
+D:\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\obj\Debug\scouts.Properties.Resources.resources
+D:\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\obj\Debug\scouts.csproj.GenerateResource.cache
+D:\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\obj\Debug\scouts.csproj.CoreCompileInputs.cache
+D:\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\obj\Debug\scouts.exe
+D:\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\obj\Debug\scouts.pdb
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\obj\Debug\scouts.csprojAssemblyReference.cache
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\obj\Debug\scouts.Form1.resources
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\obj\Debug\scouts.Properties.Resources.resources
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\obj\Debug\scouts.csproj.GenerateResource.cache
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\obj\Debug\scouts.csproj.CoreCompileInputs.cache
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\scouts.exe.config
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\scouts.exe
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\scouts.pdb
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\obj\Debug\scouts.exe
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\obj\Debug\scouts.pdb
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.Licensing.dll
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\obj\Debug\scouts.csproj.CopyComplete
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\bdr.exe
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\obj\Debug\scouts.exe.licenses
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\obj\Debug\scouts.LogIn.resources
+C:\Users\orlav\OneDrive\Desktop\ניתוצ\ניתוצ\ניתוצ\scouts\scouts\obj\Debug\scouts.CreateDoc.resources
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\obj\Debug\scouts.CreateDoc.resources
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\obj\Debug\scouts.LogIn.resources
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\obj\Debug\scouts.Form1.resources
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\obj\Debug\scouts.Properties.Resources.resources
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\obj\Debug\scouts.csproj.GenerateResource.cache
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\obj\Debug\scouts.exe.licenses
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\obj\Debug\scouts.csproj.CoreCompileInputs.cache
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\obj\Debug\scouts.csprojAssemblyReference.cache
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\scouts.exe.config
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\scouts.exe
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\scouts.pdb
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\bdr.exe
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.Licensing.dll
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\obj\Debug\scouts.csproj.CopyComplete
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\obj\Debug\scouts.exe
+C:\Users\orlav\OneDrive\Desktop\אור 1306\ניתוצ\ניתוצ\scouts\scouts\obj\Debug\scouts.pdb
+D:\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\scouts.exe.config
+D:\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\scouts.exe
+D:\אור 1306\ניתוצ\ניתוצ\scouts\scouts\bin\Debug\scouts.pdb
+D:\אור 1306\ניתוצ\ניתוצ\scouts\scouts\obj\Debug\scouts.CreateDoc.resources
+D:\אור 1306\ניתוצ\ניתוצ\scouts\scouts\obj\Debug\scouts.Properties.Resources.resources
+D:\אור 1306\ניתוצ\ניתוצ\scouts\scouts\obj\Debug\scouts.csproj.GenerateResource.cache
+D:\אור 1306\ניתוצ\ניתוצ\scouts\scouts\obj\Debug\scouts.exe.licenses
+D:\אור 1306\ניתוצ\ניתוצ\scouts\scouts\obj\Debug\scouts.csproj.CoreCompileInputs.cache
+D:\אור 1306\ניתוצ\ניתוצ\scouts\scouts\obj\Debug\scouts.exe
+D:\אור 1306\ניתוצ\ניתוצ\scouts\scouts\obj\Debug\scouts.pdb
+C:\Users\rongab\Desktop\ניתוצ\scouts\scouts\obj\Debug\scouts.CreateDoc.resources
+C:\Users\rongab\Desktop\ניתוצ\scouts\scouts\obj\Debug\scouts.exe.licenses
+C:\Users\orlav\Downloads\ron 15.6.2020\ניתוצ\scouts\scouts\obj\Debug\scouts.csprojAssemblyReference.cache
+C:\Users\orlav\Downloads\ron 15.6.2020\ניתוצ\scouts\scouts\obj\Debug\scouts.Form_LogIn.resources
+C:\Users\orlav\Downloads\ron 15.6.2020\ניתוצ\scouts\scouts\obj\Debug\scouts.Properties.Resources.resources
+C:\Users\orlav\Downloads\ron 15.6.2020\ניתוצ\scouts\scouts\obj\Debug\scouts.csproj.GenerateResource.cache
+C:\Users\orlav\Downloads\ron 15.6.2020\ניתוצ\scouts\scouts\obj\Debug\scouts.exe.licenses
+C:\Users\orlav\Downloads\ron 15.6.2020\ניתוצ\scouts\scouts\obj\Debug\scouts.csproj.CoreCompileInputs.cache
+C:\Users\orlav\OneDrive\Desktop\פרוייקט מעצבן שאני רוצה לסיים איתו\ron 15.6.2020\ניתוצ\scouts\scouts\obj\Debug\scouts.csprojAssemblyReference.cache
+C:\Users\orlav\OneDrive\Desktop\פרוייקט מעצבן שאני רוצה לסיים איתו\ron 15.6.2020\ניתוצ\scouts\scouts\obj\Debug\scouts.Form_LogIn.resources
+C:\Users\orlav\OneDrive\Desktop\פרוייקט מעצבן שאני רוצה לסיים איתו\ron 15.6.2020\ניתוצ\scouts\scouts\obj\Debug\scouts.Properties.Resources.resources
+C:\Users\orlav\OneDrive\Desktop\פרוייקט מעצבן שאני רוצה לסיים איתו\ron 15.6.2020\ניתוצ\scouts\scouts\obj\Debug\scouts.csproj.GenerateResource.cache
+C:\Users\orlav\OneDrive\Desktop\פרוייקט מעצבן שאני רוצה לסיים איתו\ron 15.6.2020\ניתוצ\scouts\scouts\obj\Debug\scouts.exe.licenses
+C:\Users\orlav\OneDrive\Desktop\פרוייקט מעצבן שאני רוצה לסיים איתו\ron 15.6.2020\ניתוצ\scouts\scouts\obj\Debug\scouts.csproj.CoreCompileInputs.cache
+C:\Users\orlav\OneDrive\Desktop\פרוייקט מעצבן שאני רוצה לסיים איתו\ron 15.6.2020\ניתוצ\scouts\scouts\bin\Debug\scouts.exe.config
+C:\Users\orlav\OneDrive\Desktop\פרוייקט מעצבן שאני רוצה לסיים איתו\ron 15.6.2020\ניתוצ\scouts\scouts\bin\Debug\scouts.exe
+C:\Users\orlav\OneDrive\Desktop\פרוייקט מעצבן שאני רוצה לסיים איתו\ron 15.6.2020\ניתוצ\scouts\scouts\bin\Debug\scouts.pdb
+C:\Users\orlav\OneDrive\Desktop\פרוייקט מעצבן שאני רוצה לסיים איתו\ron 15.6.2020\ניתוצ\scouts\scouts\obj\Debug\scouts.exe
+C:\Users\orlav\OneDrive\Desktop\פרוייקט מעצבן שאני רוצה לסיים איתו\ron 15.6.2020\ניתוצ\scouts\scouts\obj\Debug\scouts.pdb
+C:\Users\orlav\OneDrive\Desktop\פרוייקט מעצבן שאני רוצה לסיים איתו\ron 15.6.2020\ניתוצ\scouts\scouts\obj\Debug\scouts.Form1.resources
+C:\Users\orlav\OneDrive\Desktop\פרוייקט מעצבן שאני רוצה לסיים איתו\אור 1606 1600\ניתוצ\scouts\scouts\obj\Debug\scouts.csprojAssemblyReference.cache
+C:\Users\orlav\OneDrive\Desktop\פרוייקט מעצבן שאני רוצה לסיים איתו\אור 1606 1600\ניתוצ\scouts\scouts\obj\Debug\scouts.Form1.resources
+C:\Users\orlav\OneDrive\Desktop\פרוייקט מעצבן שאני רוצה לסיים איתו\אור 1606 1600\ניתוצ\scouts\scouts\obj\Debug\scouts.Form_LogIn.resources
+C:\Users\orlav\OneDrive\Desktop\פרוייקט מעצבן שאני רוצה לסיים איתו\אור 1606 1600\ניתוצ\scouts\scouts\obj\Debug\scouts.Properties.Resources.resources
+C:\Users\orlav\OneDrive\Desktop\פרוייקט מעצבן שאני רוצה לסיים איתו\אור 1606 1600\ניתוצ\scouts\scouts\obj\Debug\scouts.csproj.GenerateResource.cache
+C:\Users\orlav\OneDrive\Desktop\פרוייקט מעצבן שאני רוצה לסיים איתו\אור 1606 1600\ניתוצ\scouts\scouts\obj\Debug\scouts.exe.licenses
+C:\Users\orlav\OneDrive\Desktop\פרוייקט מעצבן שאני רוצה לסיים איתו\אור 1606 1600\ניתוצ\scouts\scouts\obj\Debug\scouts.csproj.CoreCompileInputs.cache
+C:\Users\orlav\OneDrive\Desktop\פרוייקט מעצבן שאני רוצה לסיים איתו\אור 1606 1600\ניתוצ\scouts\scouts\obj\Debug\scouts.exe
+C:\Users\orlav\OneDrive\Desktop\פרוייקט מעצבן שאני רוצה לסיים איתו\אור 1606 1600\ניתוצ\scouts\scouts\obj\Debug\scouts.pdb
+D:\אור 1606 1600\ניתוצ\scouts\scouts\obj\Debug\scouts.Form1.resources
+D:\אור 1606 1600\ניתוצ\scouts\scouts\obj\Debug\scouts.Form_LogIn.resources
+D:\אור 1606 1600\ניתוצ\scouts\scouts\obj\Debug\scouts.Properties.Resources.resources
+D:\אור 1606 1600\ניתוצ\scouts\scouts\obj\Debug\scouts.csproj.GenerateResource.cache
+D:\אור 1606 1600\ניתוצ\scouts\scouts\obj\Debug\scouts.exe.licenses
+D:\אור 1606 1600\ניתוצ\scouts\scouts\obj\Debug\scouts.csproj.CoreCompileInputs.cache
+D:\אור 1606 1600\ניתוצ\scouts\scouts\obj\Debug\scouts.exe
+D:\אור 1606 1600\ניתוצ\scouts\scouts\obj\Debug\scouts.pdb
+D:\אור 1606 1600\ניתוצ\scouts\scouts\bin\Debug\scouts.exe.config
+D:\אור 1606 1600\ניתוצ\scouts\scouts\bin\Debug\scouts.exe
+D:\אור 1606 1600\ניתוצ\scouts\scouts\bin\Debug\scouts.pdb
+D:\אור 1606 1600\ניתוצ\scouts\scouts\obj\Debug\scouts.openDelegations.resources
+D:\אור 1606 1600\ניתוצ\scouts\scouts\obj\Debug\scouts.openDelegationUX.resources
+D:\אור 1606 1600\ניתוצ\scouts\scouts\obj\Debug\scouts.csprojAssemblyReference.cache
+C:\Users\User\Desktop\הכי מעודכן\נוי 1706 עותק\ניתוצ\scouts\scouts\bin\Debug\scouts.exe.config
+C:\Users\User\Desktop\הכי מעודכן\נוי 1706 עותק\ניתוצ\scouts\scouts\bin\Debug\scouts.exe
+C:\Users\User\Desktop\הכי מעודכן\נוי 1706 עותק\ניתוצ\scouts\scouts\bin\Debug\scouts.pdb
+C:\Users\User\Desktop\הכי מעודכן\נוי 1706 עותק\ניתוצ\scouts\scouts\obj\Debug\scouts.Form_LogIn.resources
+C:\Users\User\Desktop\הכי מעודכן\נוי 1706 עותק\ניתוצ\scouts\scouts\obj\Debug\scouts.openDelegations.resources
+C:\Users\User\Desktop\הכי מעודכן\נוי 1706 עותק\ניתוצ\scouts\scouts\obj\Debug\scouts.openDelegationUX.resources
+C:\Users\User\Desktop\הכי מעודכן\נוי 1706 עותק\ניתוצ\scouts\scouts\obj\Debug\scouts.Properties.Resources.resources
+C:\Users\User\Desktop\הכי מעודכן\נוי 1706 עותק\ניתוצ\scouts\scouts\obj\Debug\scouts.Form_SignUpDelegation.resources
+C:\Users\User\Desktop\הכי מעודכן\נוי 1706 עותק\ניתוצ\scouts\scouts\obj\Debug\scouts.csproj.GenerateResource.cache
+C:\Users\User\Desktop\הכי מעודכן\נוי 1706 עותק\ניתוצ\scouts\scouts\obj\Debug\scouts.exe.licenses
+C:\Users\User\Desktop\הכי מעודכן\נוי 1706 עותק\ניתוצ\scouts\scouts\obj\Debug\scouts.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\הכי מעודכן\נוי 1706 עותק\ניתוצ\scouts\scouts\obj\Debug\scouts.exe
+C:\Users\User\Desktop\הכי מעודכן\נוי 1706 עותק\ניתוצ\scouts\scouts\obj\Debug\scouts.pdb
+C:\Users\User\Desktop\הכי מעודכן\נוי 1706 עותק\ניתוצ\scouts\scouts\obj\Debug\scouts.personaldetails.resources
+C:\Users\User\Desktop\הכי מעודכן\נוי 1706 עותק\ניתוצ\scouts\scouts\obj\Debug\scouts.welcome.resources
+C:\Users\User\Desktop\הכי מעודכן\נוי 1706 עותק\ניתוצ\scouts\scouts\obj\Debug\scouts.logInUp.resources
+C:\Users\User\Desktop\הכי מעודכן\נוי 1706 עותק\ניתוצ\scouts\scouts\obj\Debug\scouts.Coordinator.resources
+C:\Users\User\Desktop\הכי מעודכן\נוי 1706 עותק\ניתוצ\scouts\scouts\obj\Debug\scouts.csprojAssemblyReference.cache
+C:\Users\User\Desktop\הכי מעודכן\נוי 1706 עותק\ניתוצ\scouts\scouts\obj\Debug\scouts.myCampers.resources
+C:\Users\User\Desktop\הכי מעודכן\נוי 1706 עותק\ניתוצ\scouts\scouts\obj\Debug\scouts.coordinatorUX.resources
+C:\Users\User\Desktop\ניסון\scouts\bin\Debug\scouts.exe.config
+C:\Users\User\Desktop\ניסון\scouts\bin\Debug\scouts.exe
+C:\Users\User\Desktop\ניסון\scouts\bin\Debug\scouts.pdb
+C:\Users\User\Desktop\ניסון\scouts\obj\Debug\scouts.Coordinator.resources
+C:\Users\User\Desktop\ניסון\scouts\obj\Debug\scouts.coordinatorUX.resources
+C:\Users\User\Desktop\ניסון\scouts\obj\Debug\scouts.myCampers.resources
+C:\Users\User\Desktop\ניסון\scouts\obj\Debug\scouts.Form_SignUpDelegation.resources
+C:\Users\User\Desktop\ניסון\scouts\obj\Debug\scouts.welcome.resources
+C:\Users\User\Desktop\ניסון\scouts\obj\Debug\scouts.logInUp.resources
+C:\Users\User\Desktop\ניסון\scouts\obj\Debug\scouts.Form_LogIn.resources
+C:\Users\User\Desktop\ניסון\scouts\obj\Debug\scouts.openDelegations.resources
+C:\Users\User\Desktop\ניסון\scouts\obj\Debug\scouts.openDelegationUX.resources
+C:\Users\User\Desktop\ניסון\scouts\obj\Debug\scouts.personaldetails.resources
+C:\Users\User\Desktop\ניסון\scouts\obj\Debug\scouts.Properties.Resources.resources
+C:\Users\User\Desktop\ניסון\scouts\obj\Debug\scouts.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ניסון\scouts\obj\Debug\scouts.exe.licenses
+C:\Users\User\Desktop\ניסון\scouts\obj\Debug\scouts.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ניסון\scouts\obj\Debug\scouts.exe
+C:\Users\User\Desktop\ניסון\scouts\obj\Debug\scouts.pdb
+C:\Users\User\Desktop\ניסון\scouts\obj\Debug\scouts.uploadPassport.resources
+C:\Users\orlav\OneDrive\Desktop\20.06 1532\scouts\obj\Debug\scouts.Coordinator.resources
+C:\Users\orlav\OneDrive\Desktop\20.06 1532\scouts\obj\Debug\scouts.coordinatorUX.resources
+C:\Users\orlav\OneDrive\Desktop\20.06 1532\scouts\obj\Debug\scouts.CreateForm.resources
+C:\Users\orlav\OneDrive\Desktop\20.06 1532\scouts\obj\Debug\scouts.FormToFill.resources
+C:\Users\orlav\OneDrive\Desktop\20.06 1532\scouts\obj\Debug\scouts.personaldetails.resources
+C:\Users\orlav\OneDrive\Desktop\20.06 1532\scouts\obj\Debug\scouts.uploadPassport.resources
+C:\Users\orlav\OneDrive\Desktop\20.06 1532\scouts\obj\Debug\scouts.myCampers.resources
+C:\Users\orlav\OneDrive\Desktop\20.06 1532\scouts\obj\Debug\scouts.Form_SignUpDelegation.resources
+C:\Users\orlav\OneDrive\Desktop\20.06 1532\scouts\obj\Debug\scouts.welcome.resources
+C:\Users\orlav\OneDrive\Desktop\20.06 1532\scouts\obj\Debug\scouts.logInUp.resources
+C:\Users\orlav\OneDrive\Desktop\20.06 1532\scouts\obj\Debug\scouts.openDelegations.resources
+C:\Users\orlav\OneDrive\Desktop\20.06 1532\scouts\obj\Debug\scouts.openDelegationUX.resources
+C:\Users\orlav\OneDrive\Desktop\20.06 1532\scouts\obj\Debug\scouts.Properties.Resources.resources
+C:\Users\orlav\OneDrive\Desktop\20.06 1532\scouts\obj\Debug\scouts.csproj.GenerateResource.cache
+C:\Users\orlav\OneDrive\Desktop\20.06 1532\scouts\obj\Debug\scouts.exe.licenses
+C:\Users\orlav\OneDrive\Desktop\20.06 1532\scouts\obj\Debug\scouts.csproj.CoreCompileInputs.cache
+C:\Users\orlav\OneDrive\Desktop\20.06 1532\scouts\obj\Debug\scouts.csprojAssemblyReference.cache
+C:\Users\orlav\OneDrive\Desktop\20.06 1532\scouts\bin\Debug\scouts.exe.config
+C:\Users\orlav\OneDrive\Desktop\20.06 1532\scouts\bin\Debug\scouts.exe
+C:\Users\orlav\OneDrive\Desktop\20.06 1532\scouts\bin\Debug\scouts.pdb
+C:\Users\orlav\OneDrive\Desktop\20.06 1532\scouts\obj\Debug\scouts.exe
+C:\Users\orlav\OneDrive\Desktop\20.06 1532\scouts\obj\Debug\scouts.pdb
+C:\Users\orlav\OneDrive\Desktop\20.06 1241\scouts\bin\Debug\scouts.exe.config
+C:\Users\orlav\OneDrive\Desktop\20.06 1241\scouts\bin\Debug\scouts.exe
+C:\Users\orlav\OneDrive\Desktop\20.06 1241\scouts\bin\Debug\scouts.pdb
+C:\Users\orlav\OneDrive\Desktop\20.06 1241\scouts\obj\Debug\scouts.csprojAssemblyReference.cache
+C:\Users\orlav\OneDrive\Desktop\20.06 1241\scouts\obj\Debug\scouts.Coordinator.resources
+C:\Users\orlav\OneDrive\Desktop\20.06 1241\scouts\obj\Debug\scouts.coordinatorUX.resources
+C:\Users\orlav\OneDrive\Desktop\20.06 1241\scouts\obj\Debug\scouts.CreateForm.resources
+C:\Users\orlav\OneDrive\Desktop\20.06 1241\scouts\obj\Debug\scouts.FormToFill.resources
+C:\Users\orlav\OneDrive\Desktop\20.06 1241\scouts\obj\Debug\scouts.personaldetails.resources
+C:\Users\orlav\OneDrive\Desktop\20.06 1241\scouts\obj\Debug\scouts.uploadPassport.resources
+C:\Users\orlav\OneDrive\Desktop\20.06 1241\scouts\obj\Debug\scouts.myCampers.resources
+C:\Users\orlav\OneDrive\Desktop\20.06 1241\scouts\obj\Debug\scouts.Form_SignUpDelegation.resources
+C:\Users\orlav\OneDrive\Desktop\20.06 1241\scouts\obj\Debug\scouts.welcome.resources
+C:\Users\orlav\OneDrive\Desktop\20.06 1241\scouts\obj\Debug\scouts.logInUp.resources
+C:\Users\orlav\OneDrive\Desktop\20.06 1241\scouts\obj\Debug\scouts.openDelegations.resources
+C:\Users\orlav\OneDrive\Desktop\20.06 1241\scouts\obj\Debug\scouts.openDelegationUX.resources
+C:\Users\orlav\OneDrive\Desktop\20.06 1241\scouts\obj\Debug\scouts.Properties.Resources.resources
+C:\Users\orlav\OneDrive\Desktop\20.06 1241\scouts\obj\Debug\scouts.csproj.GenerateResource.cache
+C:\Users\orlav\OneDrive\Desktop\20.06 1241\scouts\obj\Debug\scouts.exe.licenses
+C:\Users\orlav\OneDrive\Desktop\20.06 1241\scouts\obj\Debug\scouts.csproj.CoreCompileInputs.cache
+C:\Users\orlav\OneDrive\Desktop\20.06 1241\scouts\obj\Debug\scouts.exe
+C:\Users\orlav\OneDrive\Desktop\20.06 1241\scouts\obj\Debug\scouts.pdb
+C:\Users\User\Desktop\סימסטר ב\ניתוח ועיצוב מערכות מידע\פרויקט\אור חדש עם סיור\20.06 1241\scouts\bin\Debug\scouts.exe.config
+C:\Users\User\Desktop\סימסטר ב\ניתוח ועיצוב מערכות מידע\פרויקט\אור חדש עם סיור\20.06 1241\scouts\bin\Debug\scouts.exe
+C:\Users\User\Desktop\סימסטר ב\ניתוח ועיצוב מערכות מידע\פרויקט\אור חדש עם סיור\20.06 1241\scouts\bin\Debug\scouts.pdb
+C:\Users\User\Desktop\סימסטר ב\ניתוח ועיצוב מערכות מידע\פרויקט\אור חדש עם סיור\20.06 1241\scouts\obj\Debug\scouts.csprojAssemblyReference.cache
+C:\Users\User\Desktop\סימסטר ב\ניתוח ועיצוב מערכות מידע\פרויקט\אור חדש עם סיור\20.06 1241\scouts\obj\Debug\scouts.Coordinator.resources
+C:\Users\User\Desktop\סימסטר ב\ניתוח ועיצוב מערכות מידע\פרויקט\אור חדש עם סיור\20.06 1241\scouts\obj\Debug\scouts.coordinatorUX.resources
+C:\Users\User\Desktop\סימסטר ב\ניתוח ועיצוב מערכות מידע\פרויקט\אור חדש עם סיור\20.06 1241\scouts\obj\Debug\scouts.CreateForm.resources
+C:\Users\User\Desktop\סימסטר ב\ניתוח ועיצוב מערכות מידע\פרויקט\אור חדש עם סיור\20.06 1241\scouts\obj\Debug\scouts.FormToFill.resources
+C:\Users\User\Desktop\סימסטר ב\ניתוח ועיצוב מערכות מידע\פרויקט\אור חדש עם סיור\20.06 1241\scouts\obj\Debug\scouts.personaldetails.resources
+C:\Users\User\Desktop\סימסטר ב\ניתוח ועיצוב מערכות מידע\פרויקט\אור חדש עם סיור\20.06 1241\scouts\obj\Debug\scouts.uploadPassport.resources
+C:\Users\User\Desktop\סימסטר ב\ניתוח ועיצוב מערכות מידע\פרויקט\אור חדש עם סיור\20.06 1241\scouts\obj\Debug\scouts.myCampers.resources
+C:\Users\User\Desktop\סימסטר ב\ניתוח ועיצוב מערכות מידע\פרויקט\אור חדש עם סיור\20.06 1241\scouts\obj\Debug\scouts.Form_SignUpDelegation.resources
+C:\Users\User\Desktop\סימסטר ב\ניתוח ועיצוב מערכות מידע\פרויקט\אור חדש עם סיור\20.06 1241\scouts\obj\Debug\scouts.welcome.resources
+C:\Users\User\Desktop\סימסטר ב\ניתוח ועיצוב מערכות מידע\פרויקט\אור חדש עם סיור\20.06 1241\scouts\obj\Debug\scouts.logInUp.resources
+C:\Users\User\Desktop\סימסטר ב\ניתוח ועיצוב מערכות מידע\פרויקט\אור חדש עם סיור\20.06 1241\scouts\obj\Debug\scouts.openDelegations.resources
+C:\Users\User\Desktop\סימסטר ב\ניתוח ועיצוב מערכות מידע\פרויקט\אור חדש עם סיור\20.06 1241\scouts\obj\Debug\scouts.openDelegationUX.resources
+C:\Users\User\Desktop\סימסטר ב\ניתוח ועיצוב מערכות מידע\פרויקט\אור חדש עם סיור\20.06 1241\scouts\obj\Debug\scouts.Properties.Resources.resources
+C:\Users\User\Desktop\סימסטר ב\ניתוח ועיצוב מערכות מידע\פרויקט\אור חדש עם סיור\20.06 1241\scouts\obj\Debug\scouts.csproj.GenerateResource.cache
+C:\Users\User\Desktop\סימסטר ב\ניתוח ועיצוב מערכות מידע\פרויקט\אור חדש עם סיור\20.06 1241\scouts\obj\Debug\scouts.exe.licenses
+C:\Users\User\Desktop\סימסטר ב\ניתוח ועיצוב מערכות מידע\פרויקט\אור חדש עם סיור\20.06 1241\scouts\obj\Debug\scouts.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\סימסטר ב\ניתוח ועיצוב מערכות מידע\פרויקט\אור חדש עם סיור\20.06 1241\scouts\obj\Debug\scouts.exe
+C:\Users\User\Desktop\סימסטר ב\ניתוח ועיצוב מערכות מידע\פרויקט\אור חדש עם סיור\20.06 1241\scouts\obj\Debug\scouts.pdb

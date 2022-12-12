@@ -1,0 +1,5 @@
+S:\ניתוצ\scouts\scouts\obj\Release\scouts.csprojAssemblyReference.cache
+S:\ניתוצ\scouts\scouts\obj\Release\scouts.Form1.resources
+S:\ניתוצ\scouts\scouts\obj\Release\scouts.Properties.Resources.resources
+S:\ניתוצ\scouts\scouts\obj\Release\scouts.csproj.GenerateResource.cache
+S:\ניתוצ\scouts\scouts\obj\Release\scouts.csproj.CoreCompileInputs.cache
